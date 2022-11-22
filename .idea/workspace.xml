@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a106b08-7e75-4f3b-9b07-c69880c84e75" name="commit2" comment="2번째 커밋&#10;MenuItem.java / MenuIngredient.java 작성함">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="3a106b08-7e75-4f3b-9b07-c69880c84e75" name="commit1" comment="3번째 커밋&#10;설계가 잘못된거 같아서 리셋함.&#10;main.java 에 Front 구현함.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/customer/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Customer/giveOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Front/frontOptions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Menu/IngredientList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Menu/IngredientList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Menu/MenuIngredient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Menu/MenuIngredient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Menu/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Menu/MenuItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Menu/MenuList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Menu/MenuList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669089348614</updated>
       <workItem from="1669089350369" duration="10414000" />
-      <workItem from="1669106330868" duration="2089000" />
+      <workItem from="1669106330868" duration="3111000" />
     </task>
     <task id="LOCAL-00001" summary="1번째 커밋.&#10;카페시스템 기본적인 틀을 만들었습니다.&#10;main.java에서 메인 선택창을 호출하는 것 까지 완료. &#10;아직 패키지내부는 비어있어서, 메인 선택창만 동작합니다.">
       <created>1669091565499</created>
@@ -105,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669092691627</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3번째 커밋&#10;설계가 잘못된거 같아서 리셋함.&#10;main.java 에 Front 구현함.">
+      <created>1669108586637</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669108586637</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +126,7 @@
     <MESSAGE value="1번째 커밋.&#10;카페시스템 기본적인 틀을 만들었습니다.&#10;main.java에서 메인 선택창을 호출하는 것 까지 완료." />
     <MESSAGE value="1번째 커밋.&#10;카페시스템 기본적인 틀을 만들었습니다.&#10;main.java에서 메인 선택창을 호출하는 것 까지 완료. &#10;아직 패키지내부는 비어있어서, 메인 선택창만 동작합니다." />
     <MESSAGE value="2번째 커밋&#10;MenuItem.java / MenuIngredient.java 작성함" />
-    <option name="LAST_COMMIT_MESSAGE" value="2번째 커밋&#10;MenuItem.java / MenuIngredient.java 작성함" />
+    <MESSAGE value="3번째 커밋&#10;설계가 잘못된거 같아서 리셋함.&#10;main.java 에 Front 구현함." />
+    <option name="LAST_COMMIT_MESSAGE" value="3번째 커밋&#10;설계가 잘못된거 같아서 리셋함.&#10;main.java 에 Front 구현함." />
   </component>
 </project>
