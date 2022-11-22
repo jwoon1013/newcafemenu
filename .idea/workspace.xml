@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a106b08-7e75-4f3b-9b07-c69880c84e75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Front/frontOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Menu/IngredientList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Menu/MenuIngredient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Menu/MenuItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Menu/MenuList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/main.java" afterDir="false" />
-    </list>
+    <list default="true" id="3a106b08-7e75-4f3b-9b07-c69880c84e75" name="Changes" comment="1번째 커밋.&#10;카페시스템 기본적인 틀을 만들었습니다.&#10;main.java에서 메인 선택창을 호출하는 것 까지 완료. &#10;아직 패키지내부는 비어있어서, 메인 선택창만 동작합니다." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,8 +70,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669089348614</updated>
-      <workItem from="1669089350369" duration="2053000" />
+      <workItem from="1669089350369" duration="2369000" />
     </task>
+    <task id="LOCAL-00001" summary="1번째 커밋.&#10;카페시스템 기본적인 틀을 만들었습니다.&#10;main.java에서 메인 선택창을 호출하는 것 까지 완료. &#10;아직 패키지내부는 비어있어서, 메인 선택창만 동작합니다.">
+      <created>1669091565499</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669091565499</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,5 +95,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1번째 커밋.&#10;카페시스템 기본적인 틀을 만들었습니다.&#10;main.java에서 메인 선택창을 호출하는 것 까지 완료." />
+    <MESSAGE value="1번째 커밋.&#10;카페시스템 기본적인 틀을 만들었습니다.&#10;main.java에서 메인 선택창을 호출하는 것 까지 완료. &#10;아직 패키지내부는 비어있어서, 메인 선택창만 동작합니다." />
+    <option name="LAST_COMMIT_MESSAGE" value="1번째 커밋.&#10;카페시스템 기본적인 틀을 만들었습니다.&#10;main.java에서 메인 선택창을 호출하는 것 까지 완료. &#10;아직 패키지내부는 비어있어서, 메인 선택창만 동작합니다." />
   </component>
 </project>
