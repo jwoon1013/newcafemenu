@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a106b08-7e75-4f3b-9b07-c69880c84e75" name="commit1" comment="3번째 커밋&#10;설계가 잘못된거 같아서 리셋함.&#10;main.java 에 Front 구현함.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/customer/Customer.java" afterDir="false" />
+    <list default="true" id="3a106b08-7e75-4f3b-9b07-c69880c84e75" name="commit1" comment="4번째 커밋&#10;Customer 구현시작 &#10;(예정) - 바뀔수 있음. 왜냐면.. 난 아직도 클래스를 잘 모르겠거든..&#10;필드 : 잔액(money), 보유음료리스트(myBeverages)[BeverageName,BeverageQuantity]&#10;함수 : 주문_메뉴판요청, 주문_메뉴선택(메뉴이름){}, 마시기_보유음료, 마시기_마시기(없어짐)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669089348614</updated>
       <workItem from="1669089350369" duration="10414000" />
-      <workItem from="1669106330868" duration="3111000" />
+      <workItem from="1669106330868" duration="5446000" />
     </task>
     <task id="LOCAL-00001" summary="1번째 커밋.&#10;카페시스템 기본적인 틀을 만들었습니다.&#10;main.java에서 메인 선택창을 호출하는 것 까지 완료. &#10;아직 패키지내부는 비어있어서, 메인 선택창만 동작합니다.">
       <created>1669091565499</created>
@@ -105,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669108586637</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="4번째 커밋&#10;Customer 구현시작 &#10;(예정) - 바뀔수 있음. 왜냐면.. 난 아직도 클래스를 잘 모르겠거든..&#10;필드 : 잔액(money), 보유음료리스트(myBeverages)[BeverageName,BeverageQuantity]&#10;함수 : 주문_메뉴판요청, 주문_메뉴선택(메뉴이름){}, 마시기_보유음료, 마시기_마시기(없어짐)">
+      <created>1669109711155</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669109711155</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,6 +133,7 @@
     <MESSAGE value="1번째 커밋.&#10;카페시스템 기본적인 틀을 만들었습니다.&#10;main.java에서 메인 선택창을 호출하는 것 까지 완료. &#10;아직 패키지내부는 비어있어서, 메인 선택창만 동작합니다." />
     <MESSAGE value="2번째 커밋&#10;MenuItem.java / MenuIngredient.java 작성함" />
     <MESSAGE value="3번째 커밋&#10;설계가 잘못된거 같아서 리셋함.&#10;main.java 에 Front 구현함." />
-    <option name="LAST_COMMIT_MESSAGE" value="3번째 커밋&#10;설계가 잘못된거 같아서 리셋함.&#10;main.java 에 Front 구현함." />
+    <MESSAGE value="4번째 커밋&#10;Customer 구현시작 &#10;(예정) - 바뀔수 있음. 왜냐면.. 난 아직도 클래스를 잘 모르겠거든..&#10;필드 : 잔액(money), 보유음료리스트(myBeverages)[BeverageName,BeverageQuantity]&#10;함수 : 주문_메뉴판요청, 주문_메뉴선택(메뉴이름){}, 마시기_보유음료, 마시기_마시기(없어짐)" />
+    <option name="LAST_COMMIT_MESSAGE" value="4번째 커밋&#10;Customer 구현시작 &#10;(예정) - 바뀔수 있음. 왜냐면.. 난 아직도 클래스를 잘 모르겠거든..&#10;필드 : 잔액(money), 보유음료리스트(myBeverages)[BeverageName,BeverageQuantity]&#10;함수 : 주문_메뉴판요청, 주문_메뉴선택(메뉴이름){}, 마시기_보유음료, 마시기_마시기(없어짐)" />
   </component>
 </project>

@@ -36,10 +36,12 @@ ver. 22/11/22
 
 #### 손님 - 구체적 설계
 (필드)
+손님이름 String name (이거 메인에 찍힐거임.)
 소지금 int money
 보유음료목록 list myBeverages[beverageName, beveragePrice]
 
 (메소드)
+생성자 Customer(name)
 음료주문 giveOrder(Beverage) : 소지금이 음료 가격보다 높으면 못삼.
 음료마시기 drink(Beverage)
 
@@ -59,6 +61,7 @@ ver. 22/11/22
 메뉴(메뉴명,가격)
 
 (메소드)
+생성자 Customer()
 메뉴생성기..? (이거 있어야하나..?)
 수익금확인 getIncome() : return income
 메뉴리스트뽑기
